@@ -1,0 +1,6 @@
+```yaml
+name: netease-api
+services:
+  - type: web
+    port: 3000
+```
